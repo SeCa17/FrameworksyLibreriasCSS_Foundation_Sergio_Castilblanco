@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
   background-image: url();
   background: linear-gradient(#0e13eb, #ffc300, #ffffff, #32fbe1);
   width: 100%;
@@ -6,12 +6,4 @@
   color: black;
   margin: 0;
   padding: 1%;
-}
-.large-uncollapse {
-
-}
-.thumbnail {
-  padding: 0;
-  margin: 0;
-  width: 80px;
 }
